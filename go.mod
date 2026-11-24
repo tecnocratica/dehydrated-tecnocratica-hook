@@ -1,6 +1,6 @@
 module github.com/tecnocratica/dehydrated-tecnocratica-hook
 
-go 1.25.7
+go 1.27.4
 
 require (
 	github.com/libdns/libdns v1.1.1
